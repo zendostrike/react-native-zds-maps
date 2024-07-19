@@ -1,6 +1,6 @@
 {
   "name": "react-native-zds-maps",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Google Maps Native View for React Native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
